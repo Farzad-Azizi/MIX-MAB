@@ -1,0 +1,20 @@
+
+
+
+• Experiment 1:
+
+    • each end-device can select one of 6 possible SFs from 7 to 12 with one sub-channel and the transmission power of 14 dBm.
+
+
+• Experiment 2: 
+
+    • each end-device can select one of 6 possible SFs from 7 to 12 with one of three sub-channels and the transmission power of 14 dBm.
+
+
+• Experiment 3: 
+
+    • each end-device can select one of 6 possible SFs from 7 to 12 with one sub-channel and the transmission power of {8, 11, 14} dBm.
+
+• Experiment 4: 
+
+    • each end-device can select one of 6 possible SFs from 7 to 12 with one of three sub-channel and one transmission power of {8, 11, 14} dBm.
