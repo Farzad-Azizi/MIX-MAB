@@ -4,5 +4,5 @@ This is a framework that we customized for simulation the distributed learning-b
 For more details U can read the related paper: "A Reinforcement Learning-based Resource Allocation Algorithm For Improve The Throuput of LoRaWAN"
 You can also involved in our project or made any changes if U want :)
 For any question, contact us: 
-__Farzad.azizi@aut.ac.ir
-__Benyamin.teymuri@aut.ac.ir
+  Farzad.azizi@aut.ac.ir
+<br /> Benyamin.teymuri@aut.ac.ir
