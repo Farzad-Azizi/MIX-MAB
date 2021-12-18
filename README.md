@@ -5,9 +5,9 @@ For more details, you can read the related paper: "A Reinforcement Learning-base
 You can also be involved in our project or make any changes if you want
 For any questions, contact us: <br /> 
 Project Researchers:
-<br /> Farzad.azizi@aut.ac.ir
-<br /> Benyamin.teymuri@aut.ac.ir
-Project Supervisors:
+<br /> Farzad Azizi <br /> Farzad.azizi@aut.ac.ir
+<br /> Benyamin Teymuri <br /> Benyamin.teymuri@aut.ac.ir
+<br /> Project Supervisors:
 <br /> **Dr. Mehdi Rasti** <br /> Associate Professor,<br /> Computer Engineering and IT Department, <br />Amirkabir University of Technology, <br /> Tehran, Iran, <br /> rasti@aut.ac.ir
 
 <br /> **Pedro H. J. Nardelli** <br />Associate professor (tenure-track) <br /> IoT in Energy Systems, <br /> School of Energy Systems, <br />Lappeenranta University of Technology<br />pedro.nardelli@lut.fi<br />
