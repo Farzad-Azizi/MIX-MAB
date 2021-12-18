@@ -11,7 +11,7 @@ For any questions, contact us:
 
 <br /> Project Supervisors:
 <br /> **Dr. Mehdi Rasti** <br /> Associate Professor,<br /> Computer Engineering and IT Department, <br />Amirkabir University of Technology, <br /> Tehran, Iran, <br /> rasti@aut.ac.ir
-<br /> **Pedro H. J. Nardelli** <br />Associate professor (tenure-track) <br /> IoT in Energy Systems, <br /> School of Energy Systems, <br />Lappeenranta University of Technology<br />pedro.nardelli@lut.fi<br />
+<br /> **Pedro H. J. Nardelli** <br />Associate professor (tenure-track) <br /> IoT in Energy Systems, <br /> School of Energy Systems, <br />Lappeenranta University of Technology<br />Lappeenranta, Finland<br />pedro.nardelli@lut.fi<br />
 
 
 NOTE: The Academy of Finland supports this work: (a) ee-IoT n.319009,(b) EnergyNet n.321265/n.328869, and (c) FIREMAN n.326270/CHISTERA-17-BDSI-003; and by JAES Foundation via STREAM project.
