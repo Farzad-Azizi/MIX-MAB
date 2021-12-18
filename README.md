@@ -1,8 +1,17 @@
 # MIX-MAB
 
-This is a framework that we customized for simulation the distributed learning-base resource allocations in LoRa (Long-Range) Wide Area Network (LoRaWAN). The most Sutible candidate for IoT networks. We then simulate our proposed solution called "MIX-MAB" in it.
-For more details U can read the related paper: "A Reinforcement Learning-based Resource Allocation Algorithm For Improve The Throuput of LoRaWAN"
-You can also involved in our project or made any changes if U want :)
-For any question, contact us: <br />
-  Farzad.azizi@aut.ac.ir
+We customized this framework for simulating the distributed learning-based resource allocations in LoRa (Long-Range) Wide Area Network (LoRaWAN). The most suitable candidate for IoT networks. We then manufacture our proposed solution called "MIX-MAB" in it.
+For more details, you can read the related paper: "A Reinforcement Learning-based Resource Allocation Algorithm For Improve The Throughput of LoRaWAN."
+You can also be involved in our project or make any changes if you want
+For any questions, contact us:
+
+Project Researchers:
+<br /> Farzad.azizi@aut.ac.ir
 <br /> Benyamin.teymuri@aut.ac.ir
+
+Project Supervisors:
+<br /> Dr. Mehdi Rasti <br /> Associate Professor,<br /> Computer Engineering and IT Department, <br />Amirkabir University of Technology, <br /> Tehran, Iran, <br /> homayoun@aut.ac.ir.
+
+<br /> Pedro H. J. Nardelli <br />Associate professor (tenure-track) <br /> IoT in Energy Systems, <br /> School of Energy Systems, <br />Lappeenranta University of Technology<br />pedro.nardelli@lut.fi<br />
+
+The Academy of Finland supports this work: (a) ee-IoT n.319009,(b) EnergyNet n.321265/n.328869, and (c) FIREMAN n.326270/CHISTERA-17-BDSI-003; and by JAES Foundation via STREAM project.
