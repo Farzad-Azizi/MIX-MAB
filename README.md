@@ -1,7 +1,7 @@
 # MIX-MAB
 
 We customized this framework for simulating the distributed learning-based resource allocations in LoRa (Long-Range) Wide Area Network (LoRaWAN). The most suitable candidate for IoT networks. We then manufacture our proposed solution called "MIX-MAB" in it.
-For more details, you can read the related paper: "A Reinforcement Learning-based Resource Allocation Algorithm For Improve The Throughput of LoRaWAN."
+For more details, you can read the related paper: "A Reinforcement Learning-based Resource Allocation Algorithm For Improve the Reliability of LoRaWAN."
 You can also be involved in our project or make any changes if you want
 For any questions, contact us: 
 
